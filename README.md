@@ -2,7 +2,7 @@
 
 **Aim:**
 To measure the polar pattern and the gain of a waveguide horn antenna and parabolic antenna.
-
+ 
 **THEORY:**
 
 If a transmission line, propagating energy is left open at one end, there will be radiation from this end. In case of a rectangular waveguide this antenna presents a mismatch of about 2 and it radiates in many directions. The match will improve if the open waveguide is a horn shape.
